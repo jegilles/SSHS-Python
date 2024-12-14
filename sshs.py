@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import scipy as scipy
 from scipy.special import ive
-#from scipy.sparse import csr_matrix
 from scipy.special import erfinv, erf
 from sklearn.cluster import KMeans
 
