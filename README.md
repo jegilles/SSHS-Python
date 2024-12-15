@@ -1,4 +1,4 @@
-# SSH-Python
+# pySSHS
  Python toolbox for the scale-space histogram segmentation
 
 This toolbox implements the algorithm described in J.Gilles, K.Heal, "A parameterless scale-space approach to find meaningful modes in histograms - Application to image and spectrum segmentation". International Journal of Wavelets, Multiresolution and Information Processing, Vol.12, No.6, 1450044-1--1450044-17, December 2014
